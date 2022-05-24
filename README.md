@@ -1,2 +1,2 @@
 # maratona
- Solving problem in the plataform beecrowed using the C language.
+ Solving problem in the plataform beecrowd using the C language.
