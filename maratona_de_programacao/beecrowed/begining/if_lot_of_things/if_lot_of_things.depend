@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653315666 source:c:\users\abraa\desktop\c\maratona_de_programacao\beecrowed\begining\if_lot_of_things\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653322923 source:c:\users\abraa\desktop\c\maratona_de_programacao\beecrowed\begining\snack\main.c
+	<stdio.h>
+	<stdlib.h>
+
